@@ -1,0 +1,583 @@
+{
+  "siteTitle": "The Actually-Free Job Training Directory",
+  "tagline": "Zero-dollar upskilling: university courses in audit mode, library learning platforms, free certificates, state workforce programs, and CEU samplers for health workers.",
+  "lastVerified": "2026-11-08",
+  "categories": [
+    {
+      "id": "audit-courses",
+      "name": "University Courses in Audit Mode",
+      "blurb": "Real university course material you can read, watch, and work through without paying. In almost every case the catch is the same: no graded feedback and no certificate. You trade the paper for the knowledge.",
+      "entries": [
+        {
+          "id": "mit-ocw",
+          "title": "MIT OpenCourseWare",
+          "provider": "Massachusetts Institute of Technology",
+          "url": "https://ocw.mit.edu",
+          "whatItIs": "About 2,500 complete MIT courses published openly: lecture videos, notes, assignments, and often exams with solutions. Good for business, math, computer science, and engineering basics.",
+          "freeWhat": "100% free. No account, no limits, no trial timer. Everything meaningful on the site is free.",
+          "paperTrail": "None. There is no certificate at any price, and no instructor responds to questions.",
+          "timeNeeded": "A few hours to skim a course; 30-80 study hours for a full one",
+          "catchOrLimit": "No credit, no credential, no human support. You organize your own learning.",
+          "tags": [
+            "university",
+            "no-signup",
+            "self-paced",
+            "career",
+            "tech",
+            "stem"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        },
+        {
+          "id": "mit-oll",
+          "title": "MIT Open Learning Library",
+          "provider": "Massachusetts Institute of Technology",
+          "url": "https://openlearninglibrary.mit.edu",
+          "whatItIs": "A hosted platform version of selected MIT courses with auto-graded exercises, chat-forum-style help threads, and interactive problem sets.",
+          "freeWhat": "100% free. A free account is required to save progress. No payment step exists.",
+          "paperTrail": "None for most courses. Some issue scans of your work as progress proof, not certificates.",
+          "timeNeeded": "10-100 study hours depending on the course",
+          "catchOrLimit": "Small course list (tens, not thousands). No credit. Certificates generally unavailable even paid.",
+          "tags": [
+            "university",
+            "exercises",
+            "self-paced",
+            "tech"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        },
+        {
+          "id": "open-yale",
+          "title": "Open Yale Courses",
+          "provider": "Yale University",
+          "url": "https://oyc.yale.edu",
+          "whatItIs": "Full-video recordings of real Yale introductory lectures (financial markets, psychology, game theory, philosophy, economics) with transcripts and reading lists.",
+          "freeWhat": "100% free. No account needed. Videos and transcripts download readily.",
+          "paperTrail": "None. No certificate, no graded work.",
+          "timeNeeded": "Whole-semester lecture series, 20-40 hours each",
+          "catchOrLimit": "Catalog frozen: 'financial markets' etc. recorded years ago, so bits age. Reading lists may point at paid textbooks.",
+          "tags": [
+            "university",
+            "lectures",
+            "no-signup",
+            "business",
+            "stem"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        },
+        {
+          "id": "oli-cmu",
+          "title": "Open Learning Initiative",
+          "provider": "Carnegie Mellon University",
+          "url": "https://oli.cmu.edu",
+          "whatItIs": "Carnegie Mellon's research-built interactive courses (statistics for business, anatomy, biology, logic) with instant-feedback tutoring built in.",
+          "freeWhat": "Self-paced 'independent learner' enrollments are free with a free account. Institutional seats for class use cost money.",
+          "paperTrail": "Progress tracking inside the platform; no formal certificate.",
+          "timeNeeded": "20-60 study hours per course",
+          "catchOrLimit": "Some catalog entries are instructor-only or paid. Confirm the 'self-paced and free' label before committing.",
+          "tags": [
+            "university",
+            "exercises",
+            "self-paced",
+            "business"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        },
+        {
+          "id": "coursera-audit",
+          "title": "Coursera Audit Mode",
+          "provider": "Coursera (hosting university content)",
+          "url": "https://www.coursera.org",
+          "whatItIs": "Thousands of university and company courses. Audit mode unlocks most video and reading content at no charge.",
+          "freeWhat": "The 'Audit' link (visible under the enroll/pay button on supporting courses) opens course content free. No graded assignments, no certificate.",
+          "paperTrail": "Nothing unless you upgrade to the paid certificate path.",
+          "timeNeeded": "3-40 hours per course",
+          "catchOrLimit": "Not every course supports audit; when audit exists it is easy to miss. Watch for autoplaying free trials of the paid subscription during signup.",
+          "tags": [
+            "university",
+            "mooc",
+            "self-paced",
+            "careful-checkout"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        },
+        {
+          "id": "edx-audit",
+          "title": "edX Audit Track",
+          "provider": "edX (hosting university content)",
+          "url": "https://www.edx.org",
+          "whatItIs": "Harvard, MIT, and other universities' MOOCs. The audit track is the free version of each supported course.",
+          "freeWhat": "Choosing 'Audit this course for free' at enrollment gives free content access. Graded work, labs, and certificates are behind the paid track.",
+          "paperTrail": "Nothing unless you upgrade to the paid certificate.",
+          "timeNeeded": "4-40 hours per course",
+          "catchOrLimit": "Audit access on some courses expires or lacks later units; many newer programs (MicroMasters, bootcamps) have no audit at all.",
+          "tags": [
+            "university",
+            "mooc",
+            "self-paced",
+            "careful-checkout"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        },
+        {
+          "id": "openlearn",
+          "title": "OpenLearn",
+          "provider": "The Open University (UK)",
+          "url": "https://www.open.edu/openlearn",
+          "whatItIs": "The Open University's free course collection: hundreds of short, structured units on work skills, business, computing, health, and science.",
+          "freeWhat": "Free all the way through: courses, and a downloadable Statement of Participation or digital badge for completing many of them. Free account required.",
+          "paperTrail": "Free Statement of Participation and/or OpenLearn badge, downloadable as PDF and shareable.",
+          "timeNeeded": "3-24 hours per course",
+          "catchOrLimit": "UK flavor (employment-law and welfare content is UK-specific). Statements are not university credit.",
+          "tags": [
+            "certificate",
+            "sign-up",
+            "self-paced",
+            "career"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        },
+        {
+          "id": "stanford-online",
+          "title": "Stanford Online (free courses)",
+          "provider": "Stanford University",
+          "url": "https://online.stanford.edu",
+          "whatItIs": "Stanford's online course catalog. A running subset of self-paced courses and seminar series are flagged as free to enroll.",
+          "freeWhat": "Courses marked free are free to enroll and complete. Certificate programs and professional courses on the same site are paid.",
+          "paperTrail": "Generally no certificate on the free items; check each course page.",
+          "timeNeeded": "Varies: 2-60 hours per course",
+          "catchOrLimit": "You must filter carefully: paid options dominate the catalog and free flags move around.",
+          "tags": [
+            "university",
+            "self-paced",
+            "career"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        }
+      ]
+    },
+    {
+      "id": "library-platforms",
+      "name": "Learning Platforms Via Your Library Card",
+      "blurb": "Public libraries (and state libraries) in the US often pay for huge learning platforms, then hand them to cardholders at no charge. You may already be paying for these locally, so this is the closest thing to money-for-nothing in the directory.",
+      "entries": [
+        {
+          "id": "gale-courses",
+          "title": "Gale Courses",
+          "provider": "Gale (Cengage) via public libraries",
+          "url": "https://www.gale.com/c/galecourses",
+          "whatItIs": "Six-week, instructor-led courses on job and life skills: business writing, grant writing, computers, healthcare-related workplace skills, personal finance.",
+          "freeWhat": "Free through participating public libraries: your card number (plus a free learner account) is tuition. New sessions start monthly.",
+          "paperTrail": "Free certificate of completion for finishing quizzes/assignments.",
+          "timeNeeded": "2-4 hours per week for 6 weeks, with instructors available",
+          "catchOrLimit": "Only works if your local library subscribes (check the library chooser inside the product). Course material can feel slightly dated.",
+          "tags": [
+            "library-card",
+            "certificate",
+            "instructor-led",
+            "career"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        },
+        {
+          "id": "universal-class",
+          "title": "Universal Class",
+          "provider": "Universal Class via public libraries",
+          "url": "https://www.universalclass.com",
+          "whatItIs": "500+ online courses across office skills, computers, care work, office administration, and 'How-Tos for jobs' with real human-paced lessons.",
+          "freeWhat": "Free through thousands of participating public libraries; card number is tuition. Courses include CEUs (Continuing Education Units) from an IACET-recognized provider at no cost through the library.",
+          "paperTrail": "Course certificate and CEU documentation for most courses.",
+          "timeNeeded": "Per-course: usually 8-20 hours, up to 6 months to finish",
+          "catchOrLimit": "Library-sponsor access usually caps you at a handful of concurrent courses. CEUs are continuing-education units, not college credit.",
+          "tags": [
+            "library-card",
+            "ceu",
+            "certificate",
+            "self-paced"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        },
+        {
+          "id": "learningexpress",
+          "title": "LearningExpress Library",
+          "provider": "EBSCO via public/state libraries",
+          "url": "https://www.learningexpresshub.com",
+          "whatItIs": "Practice exams and course videos for job-track certification tests: civil service, nursing school entry, CDL (commercial driver), cosmetology, and high-school equivalency (GED/HiSET).",
+          "freeWhat": "Free through participating libraries; card number is the pass. Includes course videos, e-books, and full practice-test banks.",
+          "paperTrail": "Scores and progress only. The actual credential comes if you pass the real-world exam this prepares you for.",
+          "timeNeeded": "Per-exam track: often 10-40 hours of practice",
+          "catchOrLimit": "Institutional access only: you need a library that subscribes. Exam content is study material, not instruction in a skilled trade.",
+          "tags": [
+            "library-card",
+            "exam-prep",
+            "no-signup",
+            "career"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        }
+      ]
+    },
+    {
+      "id": "free-certificates",
+      "name": "Free Certificates (Google, Cloud Basics & More)",
+      "blurb": "These hand you an actual certificate or digital badge at zero cost — including Google tools and cloud basics from AWS, Cisco, and IBM. These are the 'yes, that line goes on the resume' items. Every free claim here includes the certificate itself.",
+      "entries": [
+        {
+          "id": "google-skillshop",
+          "title": "Google Skillshop",
+          "provider": "Google",
+          "url": "https://skillshop.withgoogle.com",
+          "whatItIs": "Google's own training platform: Google Ads certifications, Google Analytics 4 certifications, Google Workspace skills, and AI/ML basics tracks.",
+          "freeWhat": "100% free including exams and certificates; any Google account gets in. No trial, no card on file.",
+          "paperTrail": "Shareable digital certificates (searchable/recruiter-visible in Google Partner contexts).",
+          "timeNeeded": "3-20 hours per certification track",
+          "catchOrLimit": "Google Ads certifications expire after about a year and must be re-taken free. Training glorifies Google's own tools.",
+          "tags": [
+            "certificate",
+            "sign-up",
+            "google",
+            "cloud-basics",
+            "marketing"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        },
+        {
+          "id": "grow-free-courses",
+          "title": "Grow with Google Free Courses",
+          "provider": "Google",
+          "url": "https://grow.google/certificates/free-courses/",
+          "whatItIs": "Google's own listing of its no-cost classes: AI essentials, online marketing basics via Google Digital Garage material, and the most-requested career-boosting courses.",
+          "freeWhat": "Free to take, many with a free certificate of completion, hosted by Google directly. Distinct from the paid Google Career Certificates, which run on Coursera behind a paid subscription after a short trial.",
+          "paperTrail": "Free completion certificate on several courses; the flagship Career Certificate itself costs money.",
+          "timeNeeded": "1-10 hours per short course",
+          "catchOrLimit": "Odd to Google for: this listing shifts around. Confirm the certificate icon means a downloadable certificate, not a 'congrats' banner.",
+          "tags": [
+            "certificate",
+            "google",
+            "sign-up",
+            "ai",
+            "marketing"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        },
+        {
+          "id": "cisco-netacad",
+          "title": "Cisco Networking Academy",
+          "provider": "Cisco",
+          "url": "https://www.netacad.com/courses",
+          "whatItIs": "Cisco's self-paced, entry-level curriculum: networking essentials, cybersecurity, Python, Linux, and the IoT and data-amount basics.",
+          "freeWhat": "Free self-paced courses, with most new content delivered free. Fees generally only appear on the separate CCNA exam.",
+          "paperTrail": "Free completion certificates and/or Credly digital badges on most self-paced courses.",
+          "timeNeeded": "10-70 hours per course",
+          "catchOrLimit": "The big certification (CCNA) costs money. Tutorial style leans long-form academic.",
+          "tags": [
+            "certificate",
+            "badge",
+            "cloud-basics",
+            "sign-up",
+            "tech"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        },
+        {
+          "id": "aws-skillbuilder",
+          "title": "AWS Skill Builder (free tier)",
+          "provider": "Amazon Web Services",
+          "url": "https://skillbuilder.aws",
+          "whatItIs": "Amazon's official training platform. The free tier holds hundreds of digital courses on cloud basics, machine learning fundamentals, security, and serverless.",
+          "freeWhat": "The digital course library is free with any AWS account. Pro subscription stuff (labs, official exam preps) is paid: the free tier is genuinely courses.",
+          "paperTrail": "Completion tracking in-platform. The formal AWS certification exams (like Certified Cloud Practitioner) cost money.",
+          "timeNeeded": "2-30 hours per course",
+          "catchOrLimit": "No formal certificate on most free courses. Exam vouchers, practice exams, and labs sit behind the paid tiers.",
+          "tags": [
+            "cloud-basics",
+            "sign-up",
+            "self-paced",
+            "tech"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        },
+        {
+          "id": "ibm-skillsbuild",
+          "title": "IBM SkillsBuild",
+          "provider": "IBM",
+          "url": "https://skillsbuild.org",
+          "whatItIs": "IBM's free job-track curriculum for adult learners and job seekers: AI, cybersecurity, data analytics, cloud, and soft-skill tracks.",
+          "freeWhat": "100% free including assessments and digital credentials (via the Credly badge system). Free account required.",
+          "paperTrail": "Free verifiable digital badges/certificates through Credly.",
+          "timeNeeded": "5-30 hours per track",
+          "catchOrLimit": "Badges are not the same as paid IBM certification exams, but they are real, verifiable credentials.",
+          "tags": [
+            "certificate",
+            "badge",
+            "ai",
+            "sign-up",
+            "cloud-basics"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        },
+        {
+          "id": "kaggle-learn",
+          "title": "Kaggle Learn",
+          "provider": "Kaggle (Google-owned)",
+          "url": "https://www.kaggle.com/learn",
+          "whatItIs": "Short, hands-on AI and data courses run in browser notebooks: Python, pandas, machine learning, data visualization, deep learning intro.",
+          "freeWhat": "100% free including completion certificates. Free Kaggle login; no payment screens at any point.",
+          "paperTrail": "Free certificates, verifiable via Kaggle URLs (recruiters do check these).",
+          "timeNeeded": "3-10 hours per course",
+          "catchOrLimit": "Practical coding ability is assumed after the intro track; heavy AI-math content is elsewhere.",
+          "tags": [
+            "certificate",
+            "ai",
+            "coding",
+            "sign-up",
+            "cloud-basics"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        },
+        {
+          "id": "hubspot-academy",
+          "title": "HubSpot Academy",
+          "provider": "HubSpot",
+          "url": "https://academy.hubspot.com",
+          "whatItIs": "Marketing, sales, email, and content strategy courses built around modern open-work practices. A great career sidekick for small businesses and freelancers.",
+          "freeWhat": "100% free including its certificates. Any free HubSpot account works.",
+          "paperTrail": "Free downloadable certificates (LinkedIn-badge-able) per course.",
+          "timeNeeded": "2-8 hours per course",
+          "catchOrLimit": "Curriculum nudges you toward HubSpot's paid software. Not all courses are certificate-bearing.",
+          "tags": [
+            "certificate",
+            "marketing",
+            "sign-up",
+            "business"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        },
+        {
+          "id": "semrush-academy",
+          "title": "Semrush Academy",
+          "provider": "Semrush",
+          "url": "https://www.semrush.com/academy",
+          "whatItIs": "Search-engine optimization, content marketing, and paid-ads courses, many taught by industry specialists.",
+          "freeWhat": "100% free including exams and certifications; free Semrush account gets you in.",
+          "paperTrail": "Free certificates, shareable on LinkedIn.",
+          "timeNeeded": "1-10 hours per course",
+          "catchOrLimit": "Examples teach the Semrush suite, but the concepts (keyword research, technical SEO) translate to any toolkit.",
+          "tags": [
+            "certificate",
+            "marketing",
+            "sign-up",
+            "business"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        }
+      ]
+    },
+    {
+      "id": "workforce-programs",
+      "name": "State & Federal Workforce Programs (US)",
+      "blurb": "Government programs that can pay for real training, coaching, and placement for job seekers. Rule of thumb: the help is free, and in some cases the institution is the payer of training you could never afford. Distance and eligibility are the keys.",
+      "entries": [
+        {
+          "id": "careeronestop",
+          "title": "CareerOneStop",
+          "provider": "U.S. Department of Labor",
+          "url": "https://www.careeronestop.org",
+          "whatItIs": "The government's umbrella career site: training finder, WIOA-eligible training provider lists, apprenticeship search, short-term certificate search, and state-specific program links.",
+          "freeWhat": "100% free, no signup for most features. Federal-payer tools; nothing on the site asks for money.",
+          "paperTrail": "None. It is a directory/mapper for programs that have their own paperwork.",
+          "timeNeeded": "30 minutes bookmarking; hours if you work the training lists",
+          "catchOrLimit": "Destined to feel a bit bureaucratic: data quality varies by state, and eligibility facts live on program-by-program pages.",
+          "tags": [
+            "government",
+            "no-signup",
+            "career",
+            "wioa"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        },
+        {
+          "id": "ajc-locator",
+          "title": "America's Job Centers (locator)",
+          "provider": "U.S. Department of Labor via CareerOneStop",
+          "url": "https://www.careeronestop.org/LocalHelp/local-help.aspx",
+          "whatItIs": "The official finder for American Job Centers: walk-in centers with free career coaching, resume help, workshops, and staff who actually process WIOA training-scholarship applications.",
+          "freeWhat": "Center services are free to job seekers. WIOA-funded training can make tuition at approved schools $0 for eligible people (displaced workers, income thresholds apply).",
+          "paperTrail": "Any WIOA funding paperwork happens through the center; outcomes can include funded certificates or community-college seats.",
+          "timeNeeded": "1-hour visit to start; weeks to process full funding cases",
+          "catchOrLimit": "Funding is competitive and capped per area, so words like 'you may qualify' carry real waitlist energy. Bring ID, work history, and income paperwork.",
+          "tags": [
+            "government",
+            "funded-teaching",
+            "in-person",
+            "wioa"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        },
+        {
+          "id": "workone-indiana",
+          "title": "WorkOne (Indiana)",
+          "provider": "Indiana Department of Workforce Development",
+          "url": "https://www.in.gov/dwd/workone/",
+          "whatItIs": "Indiana's public workforce centers: free career advising, employer-match services, and a path to state-backed training money (WIOA grants, plus the Workforce Ready Grant which covers adult students' costs at Ivy Tech and other schools).",
+          "freeWhat": "Center help is free. The Workforce Ready Grant is need-based no-repayment state aid for adult learners in designated high-value certificate programs (so it is state-funded, not out of your pocket).",
+          "paperTrail": "Everything is application-and-document-tax: WIOA and grant approvals land real funded certificates or programs.",
+          "timeNeeded": "First visit under 2 hours; funding windows vary",
+          "catchOrLimit": "Indiana-specific. Some qualifying programs list waitlists; actual amounts depend on the program year.",
+          "tags": [
+            "government",
+            "funded-teaching",
+            "in-person",
+            "state",
+            "wioa"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        },
+        {
+          "id": "michigan-reconnect",
+          "title": "Michigan Reconnect",
+          "provider": "State of Michigan",
+          "url": "https://www.michigan.gov/reconnect",
+          "whatItIs": "A Michigan program covering tuition for adults 25+ who lack a college degree, at community colleges for in-district students, plus a skills-scholarship path for short-term training.",
+          "freeWhat": "Free tuition at your in-district community college if you meet residency and eligibility basics. This is a state-offset program, so the applicant pays nothing when in-district.",
+          "paperTrail": "You enroll at the community college but the state pays tuition; credential is the actual college credit/certificate.",
+          "timeNeeded": "Semesters: one to two years for associate degrees.",
+          "catchOrLimit": "Michigan residents only; out-of-district or private schools cost money that the program may not cover fully. Confirm current eligibility rules before enrolling.",
+          "tags": [
+            "government",
+            "funded-teaching",
+            "state",
+            "certificates"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        },
+        {
+          "id": "idaho-launch",
+          "title": "Idaho LAUNCH",
+          "provider": "State of Idaho",
+          "url": "https://launch.idaho.gov",
+          "whatItIs": "A state grant for Idaho adults 22+ toward a short-term credential-bearing training program (CDL, welding, tech certifications, trades).",
+          "freeWhat": "The grant pays a meaningful chunk of an approved training program (amounts and windows defined by the state). Not unlimited; not every provider qualifies.",
+          "paperTrail": "Paid training leads to real credentials. It is a grant, not a loan: no repayment.",
+          "timeNeeded": "Programs run by the training provider; funding windows open periodically.",
+          "catchOrLimit": "Application windows close; when closed you wait. Idaho residents only; cap per applicant applies.",
+          "tags": [
+            "government",
+            "funded-teaching",
+            "state",
+            "trades"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        }
+      ]
+    },
+    {
+      "id": "health-ceu",
+      "name": "Health CEU Samplers (Licensed Professionals)",
+      "blurb": "Free continuing-education units for nurses, therapists, and other licensed health workers. These are samplers: real CE credit on specific courses, with rotating catalogs. Always confirm with your licensing board that a course counts for your renewal. Education only; nothing here is medical advice.",
+      "entries": [
+        {
+          "id": "train-network",
+          "title": "TRAIN Learning Network",
+          "provider": "Public Health Foundation",
+          "url": "https://www.train.org",
+          "whatItIs": "Thousands of public-health courses from CDC, states, universities, and nonprofits, organized in one searchable catalog with completion transcripts.",
+          "freeWhat": "Free account, free courses. Many courses carry CE credit (nursing CNE, CHES, and more) at no charge; the accreditation line is on each course page.",
+          "paperTrail": "Free certificates of completion; legitimate CE certificates where the course's accreditation line says so.",
+          "timeNeeded": "30 minutes to several hours per course",
+          "catchOrLimit": "Catalog quality varies by source. Confirm the course lists your specific credit type (e.g., CNE) before counting it toward renewal.",
+          "tags": [
+            "ceu",
+            "health",
+            "sign-up",
+            "certificate"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        },
+        {
+          "id": "cdc-train",
+          "title": "CDC TRAIN",
+          "provider": "Centers for Disease Control and Prevention",
+          "url": "https://www.train.org/cdctrain",
+          "whatItIs": "CDC's own branch of the TRAIN network: CDC publications, outbreak-response courses, vaccine science, disease-prevention, and self-care-style public-health content.",
+          "freeWhat": "Free account, free courses. CDC is an accredited continuing-education provider, so most courses that offer credit list CNE (nursing), and others list credit for specific professions.",
+          "paperTrail": "Free CE certificates for completed activities where the accreditation is stated.",
+          "timeNeeded": "30 minutes to 6 hours per activity",
+          "catchOrLimit": "Not every course is CE-bearing. Look at the 'CE offered' list on each activity page before counting hours.",
+          "tags": [
+            "ceu",
+            "health",
+            "government",
+            "sign-up",
+            "certificate"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        },
+        {
+          "id": "alz-training",
+          "title": "Alzheimer's Association eLearning",
+          "provider": "Alzheimer's Association",
+          "url": "https://training.alz.org",
+          "whatItIs": "The Alzheimer's Association's curated e-learning library on dementia care: recognizing change, communication approaches, and care-partner support.",
+          "freeWhat": "Free course content; some courses in the library include CE certificates at no cost. Look for the CE flag per course; the rest you take for free without credit.",
+          "paperTrail": "CE certificates on courses that advertise credit (typically for nurses and care providers).",
+          "timeNeeded": "30 minutes to 4 hours per course",
+          "catchOrLimit": "CE-bearing courses are a moving subset (the catalog changes). Check the course page for the credit-type line before you count the hours.",
+          "tags": [
+            "ceu",
+            "health",
+            "certificates",
+            "sign-up"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        },
+        {
+          "id": "medscape-ce",
+          "title": "Medscape CE",
+          "provider": "WebMD/Medscape",
+          "url": "https://www.medscape.org",
+          "whatItIs": "Clinician-targeted CE articles, case activities, and panels across nearly every specialty. Browsers block access when they see them coming, but the site functions well in a normal browser window.",
+          "freeWhat": "Free for clinicians with a free account: most CE activities across CME for physicians and CE for nurses are sponsored, so you pay nothing.",
+          "paperTrail": "Free CE certificates; your transcript builds over time inside your Medscape account.",
+          "timeNeeded": "15 minutes to 2 hours per activity",
+          "catchOrLimit": "Activity catalogs rotate as sponsorships rotate. Some CNE sponsors do not license your state's credit types. Bots and script checks can 429-block the site.",
+          "tags": [
+            "ceu",
+            "health",
+            "sign-up",
+            "certificate"
+          ],
+          "verifiedOn": "2026-11-08",
+          "recheckBy": "2027-01-08"
+        }
+      ]
+    }
+  ]
+}
